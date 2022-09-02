@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wzj33300&#39;s blog</title>
+  
+  
+  <link href="http://wzj33300.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wzj33300.github.io/"/>
+  <updated>2022-09-02T00:14:23.986Z</updated>
+  <id>http://wzj33300.github.io/</id>
+  
+  <author>
+    <name>wzj</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wzj33300.github.io/2022/09/01/Hello-World/"/>
+    <id>http://wzj33300.github.io/2022/09/01/Hello-World/</id>
+    <published>2022-09-01T13:17:07.000Z</published>
+    <updated>2022-09-02T00:14:23.986Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World!</p><p>$1+1&#x3D;2$</p><h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2><p><img src="https://assets.ppy.sh/contests/142/winners/cubey.png" alt="h"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+&lt;p&gt;$1+1&amp;#x3D;2$&lt;/p&gt;
+&lt;h2 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
